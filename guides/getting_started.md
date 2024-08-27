@@ -35,3 +35,5 @@ Even if you are using VSCode, you will need to be familiar with some basic unix 
 - `ls` - list the contents of the existing directory
 - `python` (or `python3`) - run a python program
 - `rm` - remove a file
+
+[![demo video](https://youtu.be/TprrFYPB9jY?si=GxDpIsMTfE_roFmC)]
