@@ -35,5 +35,9 @@ Even if you are using VSCode, you will need to be familiar with some basic unix 
 - `ls` - list the contents of the existing directory
 - `python` (or `python3`) - run a python program
 - `rm` - remove a file
-- 
+
+# Clone-Edit-Push Demo Video
+
+The following screencast demonstrates how to create your assignment repository, clone your assignment using VSCode, edit your code, and commit and push your changes to GitHub.
+
 [![demo video](https://img.youtube.com/vi/TprrFYPB9jY/0.jpg)](https://youtu.be/TprrFYPB9jY?si=GxDpIsMTfE_roFmC)
