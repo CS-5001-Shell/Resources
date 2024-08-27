@@ -21,13 +21,13 @@ For each assignment you will create a GitHub repository. The general process for
 
 1. **Clone** the repository. This creates a local copy of the repository from GitHub.
 2. Repeat:
-  - Edit your code
-  - *Stage Changes*. This will *add* all files you have edited.
-  - Enter a meaningful commit message.
-  - *Commit & Push* your changes.
-  - Visit the repository on GitHub to confirm that your changes were uploaded successfully
+   - Edit your code
+   - *Stage Changes*. This will *add* all files you have edited.
+   - Enter a meaningful commit message.
+   - *Commit & Push* your changes.
+   - Visit the repository on GitHub to confirm that your changes were uploaded successfully
 
-  # Unix
+# Unix
 
 Even if you are using VSCode, you will need to be familiar with some basic unix commands that you will use at the command line. You may wish to go through an online Unix tutorial. Google and Chat GPT will both provide lots of resources in response to the query "Unix tutorial". The commands you will use most are the following:
 
